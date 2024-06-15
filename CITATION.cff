@@ -15,3 +15,22 @@ title: "SLADE Online Appendix"
 version: 1.0.0
 date-released: 2024-06-15
 url: "https://github.com/jhsk777/SLADE-Online-Appendix/blob/main/_KDD24__SLADE_online_appendix.pdf"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Lee"
+    given-names: "Jongha"
+    orcid: "https://orcid.org/0000-0001-7197-3529"
+  - family-names: "Kim"
+    given-names: "Sunwoo"
+    orcid: "https://orcid.org/0000-0006-6002-169X"
+  - family-names: "Shin"
+    given-names: "Kijung"
+    orcid: "https://orcid.org/0000-0002-2872-1526"
+  month: 6
+  start: 1 # First page number
+  end: 7 # Last page number
+  title: "SLADE Online Appendix"
+  issue: 1
+  volume: 1
+  year: 2024
