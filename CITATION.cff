@@ -12,5 +12,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-2872-1526"
 title: "SLADE Online Appendix"
 version: 1.0.0
+type: article
 date-released: 2024-06-15
 url: "https://github.com/jhsk777/SLADE-Online-Appendix/blob/main/_KDD24__SLADE_online_appendix.pdf"
